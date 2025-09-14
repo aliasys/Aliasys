@@ -11,6 +11,8 @@
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGy-lmQXbk&#x2F;4RVnoyMmTtKb_eRgroQo5A&#x2F;view?utm_content=DAGy-lmQXbk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Gráfico Método Ikigai Corporativo y Sencillo Azul Verde y Negro</a> de Alia Yuste Úbeda
 
+
+https://www.canva.com/design/DAGy-lmQXbk/4RVnoyMmTtKb_eRgroQo5A/view
 <!--
 **Aliasys/Aliasys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
