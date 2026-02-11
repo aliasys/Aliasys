@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Biendenid@ a mi página. </br> Me llamo Alia, Científica de datos y estudiante de Full-Stack. Siempre estoy orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo.. </p>
+<p>Biendenid@ a mi página. </br> Me llamo Alia, Analista de datos y Cientifica de datos. Siempre estoy orientada al aprendizaje continuo, resolución de problemas y trabajo en equipo.. </p>
 <h3>Algunas de las cosas con las que he estado trabajando:</h3>
 <p>
   <img alt="Pyton" src="https://img.shields.io/badge/-Pyhton-45b8d8?style=flat-square&logo=python&logoColor=white" />
